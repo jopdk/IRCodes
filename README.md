@@ -1,3 +1,7 @@
+## IRCODES 
+#These are codes that i've picked up and use in my homeassistant. 
+
+
 ![Remote](https://github.com/jopdk/IRCodes/blob/main/samsungremote_150.png)
 **"Samsung Remote":**
 
